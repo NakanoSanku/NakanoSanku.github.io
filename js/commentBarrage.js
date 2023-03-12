@@ -11,7 +11,7 @@ const commentBarrageConfig = {
   // 你的Leancloud APPKEY
   lcAppKey: "7da3D2CuoURAd36OsEf3fktf",
   // 你的Leancloud 域名
-  lcUrl: "https://obv1wk8b.lc-cn-n1-shared.com",
+  lcUrl: "https://cn-n1-cell1.leancloud.cn",
   pageUrl: window.location.pathname,
   barrageTimer: [],
   barrageList: [],
